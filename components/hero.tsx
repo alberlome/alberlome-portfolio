@@ -8,14 +8,13 @@ export function Hero() {
         <div className="space-y-8">
           <div className="space-y-4">
             <h1 className="text-4xl sm:text-6xl lg:text-7xl font-bold text-foreground leading-tight">Alberto David López</h1>
-            <h2 className="text-xl sm:text-2xl lg:text-3xl text-primary font-medium">Senior Frontend Developer</h2>
+            <h2 className="text-xl sm:text-2xl lg:text-3xl text-primary font-medium">Senior Frontend Developer | Team Leader</h2>
             <p className="text-lg sm:text-xl text-muted-foreground max-w-2xl mx-auto leading-relaxed">
-              <strong>Senior Frontend Developer</strong> con más de 10 años creando productos digitales desde cero, experto en el Ciclo de Desarrollo Seguro (SDLC), líder de equipos remotos con metodologías ágiles (SCRUM) y especialista en la intersección entre UX/UI y desarrollo web.
+              <strong>Convierto tus ideas. En valor para tus usuarios.</strong> Liderando las soluciones digitales que transforman tu negocio.
             </p>
           </div>
 
           <div className="space-y-6">
-            
             <div className="flex flex-col sm:flex-row gap-4 justify-center items-center">
               <Button asChild size="lg" className="w-full sm:w-auto">
                 <a href="#contact">Trabajemos juntos</a>
